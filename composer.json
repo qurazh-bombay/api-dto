@@ -1,0 +1,13 @@
+{
+    "name": "igor/api-dto",
+    "description": "api dto test task",
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
